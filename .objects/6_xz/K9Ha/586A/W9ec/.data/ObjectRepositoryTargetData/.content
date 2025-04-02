@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5gEyg9Zc8kSRK2QWoKpA5Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="3739303b-9211-49ba-9568-d44b9709ec3c" CvElementArea="602, 805, 149, 51" CvTextArea="640, 821, 71, 17" CvTextArgument="SUBMIT" CvType="Button" DesignTimeRectangle="604, 808, 145, 45" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='submit' class='btn uiColorButton' aaname='Submit' check:text='Submit' /&gt;" Guid="93ddd588-6e7d-4053-b511-850d511323ac" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3739303b-9211-49ba-9568-d44b9709ec3c" CvElementArea="611, 732, 384, 52" CvType="InputBox" DesignTimeRectangle="619, 725, 372, 58" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl name='Q2vxY' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' /&gt;" Guid="4f8b198d-5d6e-4d8d-97a0-ea7a38c6f2b5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5eee32133b78b73af993be734f85500f.png" xmlns="">01q_njMQJwkORZwaifsWGRA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
