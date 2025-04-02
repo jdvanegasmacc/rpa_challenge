@@ -2,7 +2,7 @@
 
 This repository contains the solution to the **RPA Challenge**, an automation task designed to test your skills in Robotic Process Automation (RPA). The objective of the challenge is to create a workflow that automatically inputs data from a spreadsheet into a web form, while handling dynamic form field positions that change with every submission.
 
-[RPA Challenge](Solution for https://rpachallenge.com/)
+[RPA Challenge](https://rpachallenge.com/)
 
 ## Challenge Overview
 
