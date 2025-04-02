@@ -1,27 +1,6 @@
-# Ignorar archivos de configuración local
-.vs/
-.vscode/
-.idea/
-*.user
-*.suo
-*.userosscache
-*.sln.docstates
-
-# Archivos de salida y compilados
-/bin/
-/obj/
-*.nupkg
-*.dll
-
-# Archivos generados por UiPath Studio
-/project.json
-/project.lock.json
-
-# Archivos de registro
-*.log
-
-# Archivos de la configuración de UiPath
-/.settings/
-
-# Ignorar carpetas de dependencias locales
-/packages/
+*PackageCache.json
+*ProjectSettings.json
+*.cache
+*.props
+*.backup
+*AllDependencies.json
