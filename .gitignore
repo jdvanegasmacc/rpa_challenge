@@ -16,7 +16,6 @@
 # Archivos generados por UiPath Studio
 /project.json
 /project.lock.json
-/*.xaml
 
 # Archivos de registro
 *.log
